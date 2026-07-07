@@ -229,8 +229,8 @@ ruxain_shibie/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/HappyBoy-Mr-Che/Feature-Recognition-and-BI-RADS-Classification-for-Breast-Ultrasound-Images.git
-cd Feature-Recognition-and-BI-RADS-Classification-for-Breast-Ultrasound-Images
+git clone https://github.com/HappyBoy-Mr-Che/breast-birads.git
+cd breast-birads
 
 # 安装依赖
 pip install -r new_tools/requirements.txt
